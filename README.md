@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksey, Research Fellow (HSE University)
+- 👋 Hi, I’m Aleksei, Research Fellow (HSE University)
 - 👀 I’m interested in Political Science ("computational") & Data Science
 - 🌱 I’m currently Research Fellow and Lecturer at HSE University (Faculty of Social Sciences; School of Politics and Governance)
 
